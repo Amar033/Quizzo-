@@ -109,7 +109,7 @@ The app uses Material Design and can be customized through the `ThemeData` in `m
 
 ## 📱 Screenshots
 
-![ui1](https://github.com/Amar033/Quizzo-/tree/main/ui%20output/1.jpeg?raw=true)
+![ui1](https://github.com/Amar033/Quizzo-/blob/main/ui%20output/1.jpeg)
 
 ## 🤝 Contributing
 
