@@ -23,7 +23,7 @@ Before running this project, make sure you have the following installed:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/quiz-app.git
+git clone https://github.com/yourusername/Quizzo-.git
 ```
 
 2. Navigate to the project directory
@@ -95,7 +95,7 @@ class AppColors {
 ## 🙏 Acknowledgments
 
 - The UI of the application was deeply inspired by the work I am citing below.
-![ref](https://in.pinterest.com/pin/425168021077168379/)
+-[ref](https://in.pinterest.com/pin/425168021077168379/)
 - I have used claude.ai to optimize my handwritten code and improve the ui elements
 
 
