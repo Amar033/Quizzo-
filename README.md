@@ -1,6 +1,6 @@
 # Math Quiz App
 
-A modern Flutter quiz application that helps users test and improve their mathematical skills through an interactive interface.
+A modern Flutter quiz application that helps users test and improve their knowledge on Genetics and Evolution  through an interactive interface.
 
 ## 📱 Features
 
@@ -50,30 +50,6 @@ To configure the app to use your own API:
 final String apiUrl = 'your-api-endpoint';
 ```
 
-## 📊 API Response Format
-
-The API should return data in the following format:
-```json
-{
-  "questions": [
-    {
-      "id": 1,
-      "description": "Question text",
-      "topic": "Math",
-      "detailed_solution": "Explanation text",
-      "options": [
-        {
-          "id": 1,
-          "description": "Option text",
-          "is_correct": true
-        }
-      ],
-      "is_published": true
-    }
-  ]
-}
-```
-
 ## 📚 Project Structure
 
 ```
@@ -104,30 +80,26 @@ class AppColors {
 }
 ```
 
-### Styling
-The app uses Material Design and can be customized through the `ThemeData` in `main.dart`.
-
 ## 📱 Screenshots
 
 ![ui1](https://github.com/Amar033/Quizzo-/blob/main/ui%20output/1.jpeg)
+![ui2](https://github.com/Amar033/Quizzo-/blob/main/ui%20output/2.jpeg)
+![ui3](https://github.com/Amar033/Quizzo-/blob/main/ui%20output/3.jpeg)
+![ui4](https://github.com/Amar033/Quizzo-/blob/main/ui%20output/4.jpeg)
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## 👥 Authors
 
-- Your Name - [GitHub Profile](https://github.com/yourusername)
+- Amardeep - [GitHub Profile](https://github.com/Amar033)
 
 ## 🙏 Acknowledgments
 
-- Flutter team for the amazing framework
-- [List any other resources or inspirations]
+- The UI of the application was deeply inspired by the work I am citing below.
+![ref](https://in.pinterest.com/pin/425168021077168379/)
+- I have used claude.ai to optimize my handwritten code and improve the ui elements
+
+
+## Thank You 
+```Thank you
+Thank you for taking your time to read throught my work
+```
